@@ -1,4 +1,4 @@
-                       # Desafio 5
+# Desafio 5 - Sucessor e antecessor
 n1 = int(input('Digite um n°: '))
 suc = n1 + 1
 ant = n1 - 1
